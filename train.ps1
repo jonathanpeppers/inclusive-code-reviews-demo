@@ -1,7 +1,7 @@
 param
 (
     [string] $name = 'InclusiveCodeReviews',
-    [int] $seconds = 10
+    [int] $seconds = 60
 )
 
 $ErrorActionPreference = 'Stop'
